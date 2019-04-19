@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Fuera De Sektor</title>
+        <link>https://gen-fm.github.io/fuera-de-sektor/</link>
+        <description>Fuera de Sektor es el cumulo de colectoras de las pequeñas calles que rodean y le dan sentido de existencia a las grandes e iluminadas avenidas. Augusto Ochoa, además de subirse a su cohete, remontarse a la estratosfera y viajar a Japón en media hora, recorre el mundo, en búsqueda de bandas del Underground sin importar a que universo musical responden.</description>
+        <itunes:summary>Fuera de Sektor es el cumulo de colectoras de las pequeñas calles que rodean y le dan sentido de existencia a las grandes e iluminadas avenidas. Augusto Ochoa, además de subirse a su cohete, remontarse a la estratosfera y viajar a Japón en media hora, recorre el mundo, en búsqueda de bandas del Underground sin importar a que universo musical responden.</itunes:summary>
+        <itunes:author>Gen Podcast</itunes:author>
+
+        <itunes:owner>
+            <itunes:name>Gen Podcast</itunes:name>
+            <itunes:email>genpodcasts@gmail.com</itunes:email>
+        </itunes:owner>
+        
+        
+            <itunes:category text="Politics"></itunes:category>
+        
+            <itunes:category text="Technology"><itunes:category text="Information Technology"/></itunes:category>
+        
+        <language>es-ar</language>
+        <ttl>1440</ttl>
+        <lastBuildDate>Thu, 18 Apr 2019 22:05:46 +0300</lastBuildDate>
+
+        <image>
+            <title>Fuera De Sektor</title>
+            <url>https://gen-fm.github.io/fuera-de-sektor/img-cuadrada.png</url>
+            <link>https://gen-fm.github.io/fuera-de-sektor</link>
+        </image>
+        <itunes:image href="https://gen-fm.github.io/fuera-de-sektor/img-cuadrada.png" />
+        <itunes:explicit>No</itunes:explicit>
+        
+        <webMaster>ivo@data99.com.ar</webMaster>
+        
+
+        
+        <managingEditor>genpodcasts@gmail.com</managingEditor>
+        
+
+        
+        <item>
+            <title>Minor Poet</title>
+            <guid>https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/s01e01-fds.html</guid>
+            <link>https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/s01e01-fds.html</link>
+            <pubDate>Wed, 17 Apr 2019 19:00:00 +0300</pubDate>
+            <description><![CDATA[Desde Richmond Virginia, llegan los Minor Poet, banda encabezada por Andrew Carter – su cantante – se definen por varios links con la canción pop e influencias de bandas de los 60`.
+            <br />Ideas: <ul>
+            </ul>]]>
+            </description>
+            <itunes:summary>Desde Richmond Virginia, llegan los Minor Poet, banda encabezada por Andrew Carter – su cantante – se definen por varios links con la canción pop e influencias de bandas de los 60`.</itunes:summary>
+            
+            <enclosure url="https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e01-fds.mp3" length="10767268" type="audio/mpeg"/>
+
+            <itunes:image href="https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e01-fds.png" />
+
+        </item>
+        
+
+    </channel>
+</rss>
