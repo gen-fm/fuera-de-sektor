@@ -19,7 +19,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Wed, 08 May 2019 21:28:04 +0300</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2019 21:41:55 +0300</lastBuildDate>
 
         <image>
             <title>Fuera De Sektor</title>
@@ -55,15 +55,15 @@
         </item>
         
         <item>
-            <title>Minor Poet</title>
+            <title>International Teachers Of Pop</title>
             <guid>https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/s01e02-fds.html</guid>
             <link>https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/s01e02-fds.html</link>
-            <pubDate>Wed, 17 Apr 2019 19:00:00 +0300</pubDate>
-            <description><![CDATA[Desde Richmond Virginia, llegan los Minor Poet, banda encabezada por Andrew Carter – su cantante – se definen por varios links con la canción pop e influencias de bandas de los 60`.
+            <pubDate>Wed, 24 Apr 2019 19:00:00 +0300</pubDate>
+            <description><![CDATA[International Teachers Of Pop es un trio que combina una buena cantidad de sintetizadores, por decantación es una banda que invita a las pistas, mucho baile y botella de agua en mano.
             <br />Ideas: <ul>
             </ul>]]>
             </description>
-            <itunes:summary>Desde Richmond Virginia, llegan los Minor Poet, banda encabezada por Andrew Carter – su cantante – se definen por varios links con la canción pop e influencias de bandas de los 60`.</itunes:summary>
+            <itunes:summary>International Teachers Of Pop es un trio que combina una buena cantidad de sintetizadores, por decantación es una banda que invita a las pistas, mucho baile y botella de agua en mano.</itunes:summary>
             
             <enclosure url="https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e02-fds.mp3" length="10748503" type="audio/mpeg"/>
 
