@@ -32,5 +32,19 @@
 			<pubDate>Wed, 17 Apr 2019 19:00:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Minor Poet</title>
+			<googleplay:description><![CDATA[Desde Richmond Virginia, llegan los Minor Poet, banda encabezada por Andrew Carter – su cantante – se definen por varios links con la canción pop e influencias de bandas de los 60`.
+            <br />Ideas: <ul>
+            </ul>]]>
+			 </googleplay:description>
+			<googleplay:author>Gen Podcast</googleplay:author>
+			<googleplay:image href='https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e02-fds.png'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e02-fds.mp3" length="10748503" type="audio/x-mp3"/>
+			<guid>https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/s01e02-fds.html</guid>
+			<pubDate>Wed, 17 Apr 2019 19:00:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>
