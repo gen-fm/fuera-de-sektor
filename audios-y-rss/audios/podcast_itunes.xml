@@ -19,7 +19,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Wed, 08 May 2019 21:41:55 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 19 May 2019 17:19:34 +0300</lastBuildDate>
 
         <image>
             <title>Fuera De Sektor</title>
@@ -68,6 +68,23 @@
             <enclosure url="https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e02-fds.mp3" length="10748503" type="audio/mpeg"/>
 
             <itunes:image href="https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e02-fds.png" />
+
+        </item>
+        
+        <item>
+            <title>Rascalton</title>
+            <guid>https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/s01e03-fds.html</guid>
+            <link>https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/s01e03-fds.html</link>
+            <pubDate>Sat, 18 May 2019 19:00:00 +0300</pubDate>
+            <description><![CDATA[Una propuesta punk/garage modelo siglo XXI. Se llaman Rascalton, este cuarteto de escoces llenos de furia, gritos y mucha mugre –no solo sonora- serian la banda ideal para una noche de cervezas con amigos o como previa de un piquete.
+            <br />Ideas: <ul>
+            </ul>]]>
+            </description>
+            <itunes:summary>Una propuesta punk/garage modelo siglo XXI. Se llaman Rascalton, este cuarteto de escoces llenos de furia, gritos y mucha mugre –no solo sonora- serian la banda ideal para una noche de cervezas con amigos o como previa de un piquete.</itunes:summary>
+            
+            <enclosure url="https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e03-fds.mp3" length="9474985" type="audio/mpeg"/>
+
+            <itunes:image href="https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e03-fds.png" />
 
         </item>
         

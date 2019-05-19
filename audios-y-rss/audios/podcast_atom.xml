@@ -6,7 +6,7 @@
         <description>Fuera de Sektor es el cumulo de colectoras de las pequeñas calles que rodean y le dan sentido de existencia a las grandes e iluminadas avenidas. Augusto Ochoa, además de subirse a su cohete, remontarse a la estratosfera y viajar a Japón en media hora, recorre el mundo, en búsqueda de bandas del Underground sin importar a que universo musical responden.</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Wed, 08 May 2019 21:41:55 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 19 May 2019 17:19:34 +0300</lastBuildDate>
         <author>Gen Podcast</author>
         <image>
             <title>Fuera De Sektor</title>
@@ -64,6 +64,26 @@
                 <title>International Teachers Of Pop</title>
                 <url>https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e02-fds.png</url>
                 <link>https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e02-fds.png</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Rascalton</title>
+            <guid>https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/s01e03-fds.html</guid>
+            <link>https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/s01e03-fds.html</link>
+            <pubDate>Sat, 18 May 2019 19:00:00 +0300</pubDate>
+            <author>Gen Podcast</author>
+            <description><![CDATA[Una propuesta punk/garage modelo siglo XXI. Se llaman Rascalton, este cuarteto de escoces llenos de furia, gritos y mucha mugre –no solo sonora- serian la banda ideal para una noche de cervezas con amigos o como previa de un piquete.
+            <br />Ideas: <ul>
+            </ul>]]></description>
+            
+            <enclosure url="https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e03-fds.mp3" length="9474985" type="audio/mpeg"/>
+
+            <image>
+                <title>Rascalton</title>
+                <url>https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e03-fds.png</url>
+                <link>https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e03-fds.png</link>
             </image>
 
         </item>

@@ -46,5 +46,19 @@
 			<pubDate>Wed, 24 Apr 2019 19:00:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Rascalton</title>
+			<googleplay:description><![CDATA[Una propuesta punk/garage modelo siglo XXI. Se llaman Rascalton, este cuarteto de escoces llenos de furia, gritos y mucha mugre –no solo sonora- serian la banda ideal para una noche de cervezas con amigos o como previa de un piquete.
+            <br />Ideas: <ul>
+            </ul>]]>
+			 </googleplay:description>
+			<googleplay:author>Gen Podcast</googleplay:author>
+			<googleplay:image href='https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e03-fds.png'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/audios/s01e03-fds.mp3" length="9474985" type="audio/x-mp3"/>
+			<guid>https://gen-fm.github.io/fuera-de-sektor/audios-y-rss/s01e03-fds.html</guid>
+			<pubDate>Sat, 18 May 2019 19:00:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>
